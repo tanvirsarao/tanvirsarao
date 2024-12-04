@@ -19,5 +19,7 @@
 
 ## 📫 Let's Connect!
 Are you interested in working together on a cool project, internship opportunities or a general coffee chat?
-- LinkedIn: linkedin.com/in/tanvir-sarao
-- Email: tsarao@uwaterloo.ca
+<p>
+<a href="https://www.linkedin.com/in/tanvir-sarao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:tsarao@uwaterloo.ca"><img src="https://img.shields.io/badge/Email_Me-black?style=social&logo=mail&logoColor=white" height=25></a>
+</p>
