@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Tanvir Sarao!
 
-<!--
-**tanvirsarao/tanvirsarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Pursuing a Double Major in Computer Science and Finance (BCFM) at the University of Waterloo
+- 💻 Have worked with machine learning in Python for financial modelling and analysis, built scalable REST APIs using Node.js, Express.js and MySQL, and implemented user authentication and web development fundamentals
+- 🌱 Active member of the Computer Science Club, Data Science Club and Rocketry Design Team
+- 📊 Passionate about software engineering, machine learning and building scalable web applications
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL, Racket
+- **Data Science:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow
+- **Developer Tools:** Git, AWS (EC2), Linux, Jupyter Notebook, VS Code
+- **Web Development:** Node.js, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On...
+- Building a full-stack 3D portfolio website using HTML/CSS, React.js, Three.js, WebGL, TypeScript and Next.js.
+- C++ for system-side programming.
+- MongoDB for non-relational databases.
+
+## 📫 Let's Connect!
+Are you interested in working together on a cool project, internship opportunities or a general coffee chat?
+- LinkedIn: linkedin.com/in/tanvir-sarao
+- Email: tsarao@uwaterloo.ca
