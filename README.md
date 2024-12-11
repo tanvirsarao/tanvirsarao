@@ -14,7 +14,7 @@
 
 ## 🌱 Currently Working On...
 - Building a full-stack 3D portfolio website using HTML/CSS, React.js, Three.js, WebGL, TypeScript and Next.js.
-- C++ for system-side programming.
+- C languages for system-side programming.
 - MongoDB for non-relational databases.
 
 ## 📫 Let's Connect!
