@@ -7,15 +7,10 @@
 - 📊 Passionate about software engineering, machine learning and building scalable web applications
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL, Racket
+- **Languages:** Python, JavaScript, MySQL, Racket, C, HTML, CSS, MongoDB
 - **Data Science:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow
 - **Developer Tools:** Git, AWS (EC2), Linux, Jupyter Notebook, VS Code
-- **Web Development:** Node.js, Express.js
-
-## 🌱 Currently Working On...
-- Building a full-stack 3D portfolio website using HTML/CSS, React.js, Three.js, WebGL, TypeScript and Next.js.
-- C languages for system-side programming.
-- MongoDB for non-relational databases.
+- **Web Development:** Node.js, Express.js, React.js
 
 ## 📫 Let's Connect!
 Are you interested in working together on a cool project, internship opportunities or a general coffee chat?
