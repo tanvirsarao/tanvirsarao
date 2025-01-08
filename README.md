@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Tanvir Sarao!
+### <img src="https://komarev.com/ghpvc/?username=tanvirsarao&style=flat-square&color=blue" alt=""/>
 
 ## 🚀 About Me
 - 🎓 Pursuing a Double Major in Computer Science and Finance (BCFM) at the University of Waterloo
@@ -16,6 +17,7 @@ Are you interested in working together on a cool project, internship opportuniti
 <p>
 <a href="https://www.linkedin.com/in/tanvir-sarao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:tsarao@uwaterloo.ca"><img src="https://img.shields.io/badge/Email_Me-black?style=social&logo=mail&logoColor=white" height=25></a>
+
 </p>
 
 ## Find more @ [tanvirsarao.com](https://tanvirsarao.com)
