@@ -3,11 +3,9 @@
 <h1>tanvir sarao</h1>
 
 <p>
-  <a href="https://uwaterloo.ca/computing-financial-management/">computer science, finance</a>
-  @ <a href="https://uwaterloo.ca/">uwaterloo</a><br />
-  software engineering @
-  <a href="https://www.scotiabank.com/ca/en/business-banking/banking-solutions/payments-and-merchant-services/eft-sco.html">scotiabank</a>,
-  prev. <a href="https://www.telus.com/en/">telus</a>
+  computer science, finance  @ the university of waterloo
+  <br />
+  engineering @ scotiabank, prev. telus
 </p>
 
 <p>
