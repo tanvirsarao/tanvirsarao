@@ -5,7 +5,8 @@
 <p>
   computer science, finance  @ the university of waterloo
   <br />
-  engineering @ scotiabank, prev. telus
+  engineering @ scotiabank
+  prev. engineering @ telus
 </p>
 
 <p>
