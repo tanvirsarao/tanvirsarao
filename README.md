@@ -11,6 +11,6 @@
 
 <p>
   <a href="https://tanvirsarao.com/">website</a> •
-  <a href="https://www.linkedin.com/in/tanvir-sarao/">linkedin</a> •
+  <a href="https://www.linkedin.com/in/tanvirsarao/">linkedin</a> •
   <a href="mailto:tsarao@uwaterloo.ca">email</a>
 </p>
