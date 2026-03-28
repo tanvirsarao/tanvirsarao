@@ -3,10 +3,11 @@
 <h1>tanvir sarao</h1>
 
 <p>
-  computer science, finance  @ the university of waterloo
+  computer science, finance @ the university of waterloo
   <br />
-  engineering @ scotiabank
-  prev. engineering @ telus
+  engineering @ intuit
+  <br />
+  prev. @ scotiabank, telus
 </p>
 
 <p>
