@@ -5,9 +5,9 @@
 <p>
   computer science, finance @ the university of waterloo
   <br />
-  engineering @ intuit
+  engineering @ shopify
   <br />
-  prev. @ scotiabank, telus
+  prev. @ intuit, scotiabank, telus
 </p>
 
 <p>
